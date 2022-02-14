@@ -12,7 +12,7 @@ Možnost přidávání závodníků (jméno, přijmení, email, telefon, věk, p
 		které následně zvolí (vyhledá) do turnaje
 	
 
-# Po zvolení závodníků proběhne náhodné rozlosování.
+# Po zvolení závodníků proběhne náhodné rozlosování
 
 Rozlosování:
 			
@@ -46,3 +46,8 @@ Rozlosování:
 - Prodloužení - označení znakem E
 
 - Zamčení editování zápasu, až začne zápas nad tím (v pavoukovi)
+
+# Technologie, které budou použity
+- C#
+- MS SQL nebo MySql
+- WinForms
