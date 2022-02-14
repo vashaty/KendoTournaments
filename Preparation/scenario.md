@@ -1,10 +1,10 @@
-Sportovní aplikace pro vytváření turnajů Kendo.
+# Sportovní aplikace pro vytváření turnajů Kendo.
 
 Možnost přidávání závodníků (jméno, přijmení, email, telefon, věk, pohlaví, technický stupeň).
 
 - Technický stupeň (10. - 1. kjú, 1. - 10. dann)
 
-Zakládání turnajů:
+# Zakládání turnajů:
 
 - Omezení věkem, pohlavím a technickým stupněm
 	
@@ -12,7 +12,7 @@ Zakládání turnajů:
 		které následně zvolí (vyhledá) do turnaje
 	
 
-Po zvolení závodníků proběhne náhodné rozlosování.
+# Po zvolení závodníků proběhne náhodné rozlosování.
 
 Rozlosování:
 			
@@ -33,7 +33,7 @@ Rozlosování:
 		- 1. závodník (vítěz) z druhé skupiny B půjde s 2. závodníkem z předposlední skupiny L, atd.
 
 
-Průběh zápasu:
+# Průběh zápasu:
 
 - Zápasí se na 2 body - symboly, pokud někdo získá 2 písmena, postupuje - písmena M, K, T, D, H (2x (trojúhelník) napomenutí, H získává soupeř)
 	
