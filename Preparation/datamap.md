@@ -13,8 +13,8 @@
 ### Tournament
 - Id - int
 - Name - string
-- Players - List<Player>
-- Matches - List<List<Matchup>>
+- Players - List\<Player>
+- Matches - List<List\<Matchup>>
 - Date - Datetime
 - AgeLimit - enum
 - SexLimit - enum
@@ -23,11 +23,11 @@
 ### Group
 - Name - enum
 - Tournament - Tournament
-- Players - List<Player>
+- Players - List\<Player>
 
 ### Matchup
 - Id - int
-- MatchupPlayers - List<MatchupPlayer>
+- MatchupPlayers - List\<MatchupPlayer>
 - Winner - Player
 - DateTime - Datetime
 - MatchupRound - int
@@ -36,7 +36,7 @@
 
 ### MatchupPlayer
 - Player - Player
-- Symbols - List<Symbol>
+- Symbols - List\<Symbol>
 - ParentMatchup - Matchup
 
 ### Symbol
