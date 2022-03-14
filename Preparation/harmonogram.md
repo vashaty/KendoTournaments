@@ -1,8 +1,8 @@
 - 28.2. - Návrhy tříd pro práci s daty
 
-- 7.3. - Návrhy vzhledu oken - wireframes
+- 7.3. - Dokončení datamapy
 
-- 14.3. - Databáze
+- 14.3. - Návrhy vzhledu oken - wireframes + začátek návrhu databáze
 
 - 21.3. - Databáze
 
