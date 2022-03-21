@@ -17,3 +17,10 @@
 - 25.4. - Frontend
 
 - 2.5. - Refactoring (?) + testování
+
+#Hodnocení v polovině semestru
+
+Časový plán se mi celkem daří dodržet, bohužel kvůli časové indispozici jednoho týdne jsem týden pozadu. Abych toto dohnal, tak si vymezím zvlášť jeden den pro práci na tomto projektu. Celkově si myslím, že časový plán jsem navrhl rozumně, teď se nacházím v bodu, kdy se od návrhů dostanu k samotnému programování.
+Návrhům aplikace jsem vymezil spoustu času, protože chci mít aplikaci řádně rozmyšlenou a urovnanou v mé hlavě, abych se při programování mohl jmenovat pouze programování a nemusel aplikaci zpětně předělávat.
+
+
