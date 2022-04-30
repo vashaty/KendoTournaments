@@ -1,0 +1,17 @@
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.AssemblyReference.cache
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.SuggestedBindingRedirects.cache
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Properties.Resources.resources
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.GenerateResource.cache
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.CoreCompileInputs.cache
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\KendoTournaments.exe.config
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\KendoTournaments.exe
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\KendoTournaments.pdb
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\EntityFramework.dll
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\EntityFramework.xml
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.CopyComplete
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.exe
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.pdb
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Migrations.migration2.resources
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Migrations.migration3.resources
