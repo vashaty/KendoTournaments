@@ -20,7 +20,7 @@ namespace KendoTournaments
 
         public int Age { get; set; }
 
-        public bool Sex { get; set; }
+        public int Sex { get; set; }
 
         public int Grade { get; set; }
         public virtual ICollection<Group> Groups { get; set; }

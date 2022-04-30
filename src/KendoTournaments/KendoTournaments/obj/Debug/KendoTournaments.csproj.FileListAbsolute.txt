@@ -15,3 +15,5 @@ D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTourna
 D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.pdb
 D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Migrations.migration2.resources
 D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Migrations.migration3.resources
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Form1.resources
+D:\Users\vtonc\Dokumenty\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.Migrations.migration4.resources
