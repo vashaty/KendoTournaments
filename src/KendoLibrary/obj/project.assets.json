@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\vtonc\\Dokumenty\\KendoLibrary\\KendoLibrary\\KendoLibrary.csproj",
+      "projectUniqueName": "D:\\Users\\vtonc\\Dokumenty\\GitHub\\KendoTournaments\\src\\KendoLibrary\\KendoLibrary.csproj",
       "projectName": "KendoLibrary",
-      "projectPath": "D:\\Users\\vtonc\\Dokumenty\\KendoLibrary\\KendoLibrary\\KendoLibrary.csproj",
+      "projectPath": "D:\\Users\\vtonc\\Dokumenty\\GitHub\\KendoTournaments\\src\\KendoLibrary\\KendoLibrary.csproj",
       "packagesPath": "C:\\Users\\vtonc\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\vtonc\\Dokumenty\\KendoLibrary\\KendoLibrary\\obj\\",
+      "outputPath": "D:\\Users\\vtonc\\Dokumenty\\GitHub\\KendoTournaments\\src\\KendoLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vtonc\\AppData\\Roaming\\NuGet\\NuGet.Config",
