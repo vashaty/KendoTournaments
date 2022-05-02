@@ -55,3 +55,4 @@ D:\Dokumenty\GitHub\KendoTournaments\src\KendoTournaments\KendoTournaments\obj\D
 D:\Dokumenty\GitHub\KendoTournaments\src\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.csproj.CopyComplete
 D:\Dokumenty\GitHub\KendoTournaments\src\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.exe
 D:\Dokumenty\GitHub\KendoTournaments\src\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.pdb
+D:\Dokumenty\GitHub\KendoTournaments\src\KendoTournaments\KendoTournaments\obj\Debug\KendoTournaments.CreateTournament.resources
